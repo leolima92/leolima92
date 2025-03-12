@@ -22,6 +22,6 @@ Currently pursuing a **Computer Science degree at Senac Santo Amaro (2027)**, Iâ
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## ðŸ“« Get in Touch
-- **LinkedIn:** [[linkedin.com/in/leonardolima](https://www.linkedin.com/in/leonardo-lima-1548ba201/)](#)
+- **LinkedIn:** [https://www.linkedin.com/in/leonardo-lima-1548ba201/](#)
 - **GitHub:** [github.com/leolima92](#)
 - **Email:** leonardolima2003@gmail.com
