@@ -7,7 +7,7 @@ I'm Leonardo Lima, a passionate **Python and JavaScript Developer** currently wo
 - **Front-end Development:** React.js, HTML, CSS, Bootstrap
 - **Data Analysis & BI:** Pandas, NumPy, Power BI, SQL
 - **Automation & Scripting:** Task scheduling, process automation, Fluig
-- **Game Development:** Allegro 5 (C++)
+- **Game Development:** Allegro 5 (C)
 
 ## 🚀 About Me
 Currently pursuing a **Computer Science degree at Senac Santo Amaro (2027)**, I’m always eager to learn new technologies and improve my problem-solving skills. I also enjoy working on **personal projects** related to game development, automation, and full-stack applications.
