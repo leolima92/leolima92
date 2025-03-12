@@ -1,16 +1,27 @@
-### Hi there 👋
-I'm Leonardo Lima , a passionate developer and tech. I currently work as a freelance front-end developer.
-With more than 3 years of experience in the field, I had the opportunity to work on several exciting projects and explore different technologies.
+# Hi there! 👋
 
+I'm Leonardo Lima, a passionate **Python and JavaScript Developer** currently working at **TOTVS**. With experience in **automation, data analysis, and business intelligence (BI)**, I enjoy building efficient solutions that optimize workflows and improve business processes. 
 
-### Expertise 🚀 
-My main area of ​​interest is front-end development, where I became an expert in creating user-friendly and interactive web applications. I have a solid knowledge of HTML, CSS and JavaScript, and I have advanced skills in using popular frameworks and libraries such as React. In addition, I have knowledge in back-end development with Java, C# and Python.
+## 🔥 Expertise
+- **Back-end Development:** Python (Django, FastAPI, Flask), JavaScript (Node.js)
+- **Front-end Development:** React.js, HTML, CSS, Bootstrap
+- **Data Analysis & BI:** Pandas, NumPy, Power BI, SQL
+- **Automation & Scripting:** Task scheduling, process automation, Fluig
+- **Game Development:** Allegro 5 (C++)
 
-What I really love about front-end work is the opportunity to combine my creativity with my problem-solving skills to deliver exceptional user experiences.
+## 🚀 About Me
+Currently pursuing a **Computer Science degree at Senac Santo Amaro (2027)**, I’m always eager to learn new technologies and improve my problem-solving skills. I also enjoy working on **personal projects** related to game development, automation, and full-stack applications.
 
- ### Tech Stack 💻
+## ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-
-
+## 📫 Get in Touch
+- **LinkedIn:** [[linkedin.com/in/leonardolima](https://www.linkedin.com/in/leonardo-lima-1548ba201/)](#)
+- **GitHub:** [github.com/leolima92](#)
+- **Email:** leonardolima2003@gmail.com
