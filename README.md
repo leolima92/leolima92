@@ -3,7 +3,7 @@
 I'm Leonardo Lima, a passionate **Python and JavaScript Developer** currently working at **TOTVS**. With experience in **automation, data analysis, and business intelligence (BI)**, I enjoy building efficient solutions that optimize workflows and improve business processes. 
 
 ## 🔥 Expertise
-- **Back-end Development:** Python (Django, FastAPI, Flask), JavaScript (Node.js)
+- **Back-end Development:** Python (Django, FastAPI, Flask), JavaScript (Node.js), C#, Java
 - **Front-end Development:** React.js, HTML, CSS, Bootstrap
 - **Data Analysis & BI:** Pandas, NumPy, Power BI, SQL
 - **Automation & Scripting:** Task scheduling, process automation, Fluig
