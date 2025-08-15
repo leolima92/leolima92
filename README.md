@@ -49,5 +49,4 @@ Currently pursuing a **Computer Science degree at Senac Santo Amaro (2027)**, Iâ
 
 ## ğŸ“« Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/leonardo-lima-1548ba201/](#)
-- **GitHub:** [github.com/leolima92](#)
 - **Email:** leonardolima2003@gmail.com
