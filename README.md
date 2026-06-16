@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Leonardo Lima, a passionate **Python and JavaScript Developer** currently working at **TOTVS**. With experience in **automation, data analysis, and business intelligence (BI)**, I enjoy building efficient solutions that optimize workflows and improve business processes. 
+I'm Leonardo Lima, a passionate **Python and JavaScript Developer** currently working at **EcoUrbis S/A**. With experience in **automation, data analysis, and business intelligence (BI)**, I enjoy building efficient solutions that optimize workflows and improve business processes. 
 
 ## 🔥 Expertise
 - **Back-end Development:** Python (Django, FastAPI, Flask), JavaScript (Node.js), C#, Java
